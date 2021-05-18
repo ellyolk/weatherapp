@@ -1,0 +1,80 @@
+
+h3,
+h4,
+p {
+    text-align: center;
+}
+h1 {
+
+    color:#7c7c7c;
+    font-size:24px;
+    line-height:28px;
+    font-weight: 100;
+    margin:0;
+    
+}
+body {
+  background: #f2f2f2;
+  font-family: arial, sans-serif;
+}
+.fas .fa-share-alt {
+    color: black;
+    text-align: center;
+}
+.fas .fa {
+  text-align: center;
+  size: 50px;
+}
+
+.search {
+  width: 100%;
+  
+  
+}
+
+.temperature{
+  text-align: center ;
+}
+.current-location-button{
+  color: #7c7c7c;
+}
+ul {
+  margin: 0 0 10px;
+  padding:0;
+}
+li {
+  color: #7c7c7c;
+  font-size: 16;
+  font-weight: 100;
+  height: 19px;
+  line-height: 1;
+  list-style: none;
+}
+.searchTerm {
+  width: 100%;
+  border: 3px solid #00B4CC;
+  
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 5px 5px 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+.container {
+  margin-top: 20px;
+}
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.wrap{
+  width: 40%;
+  position: relative;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.wrap{
+  text-align: center;
+  margin-top: 20px;
+}
